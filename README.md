@@ -13,4 +13,4 @@ I am an user experience writer with a focus on creating clear and structured doc
 
  **Contact** 📫
 - [Linkedin](https://www.linkedin.com/in/neha-tege-486b20201/)
-- [Email](nehatege@gmail.com)
+- [nehatege@gmail.com](nehatege@gmail.com)
