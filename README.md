@@ -3,7 +3,7 @@ Hi, I am Neha Tege, a Technical Writer passionate about creating clear and user-
 
 ## About Me 👩
 
-I am a user experience writer with a focus on creating clear and structured documentation for complex systems. My work includes IT service management (ITSM) content, user guides, service updates, API documentation, and video creation. I prioritize clarity, consistency, and usability in all my writing. I have experience with tools such as Markdown, Jira, XWiki, RoboHelp, Camtasia, Snagit, and Canva. Please find my writing sampels below:
+I am an user experience writer with a focus on creating clear and structured documentation for complex systems. My work includes IT service management (ITSM) content, user guides, service updates, API documentation, and video creation. I prioritize clarity, consistency, and usability in all my writing. I have experience with tools such as Markdown, Jira, XWiki, RoboHelp, Camtasia, Snagit, and Canva. Please find my writing sampels below:
 
 ### Writing Samples ✍️ 
 
